@@ -26,7 +26,7 @@ Urban camping regulations are often written in legal language that is difficult 
 - Data visualization for public communication
 
 ## Dashboard Preview
-(Add screenshot here)
+![Dashboard Preview](UrbanCampingDashboard.png)
 
 ## Live Application
 (Add AGOL link here)
