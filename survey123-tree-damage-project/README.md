@@ -19,16 +19,13 @@ The form includes:
 2. Submissions collected and stored.
 3. Map configured to visualize data.
 
-
-
 ## Tools Used
 
 - ArcGIS Survey123
 - ArcGIS Pro
 
-
-## Survey Preview
-(
+## Live Survey
+[Live Survey Form](https://arcg.is/1Cy9qT1)
 
 ## Map Output
 ![Survey Results Map](Lab_7_Map.png)
