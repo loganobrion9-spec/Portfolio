@@ -14,4 +14,4 @@ Static map of designated campsites within Grand Canyon National Park with both t
 ### Coded Adventure Game
 Python game demonstrating coding experience.
 
-[View Project}(coded-adventure-game-)
+[View Project](coded-adventure-game-)
