@@ -3,6 +3,7 @@ Welcome to my portfolio.
 
 ### Urban Camping Dashboard
 Interactive dashboard displaying urban camping restrictions within the city of Missoula.
+
 [View Project](urban-_camping_dashboard)
 
 ### Grand Canyon Campsites – Static Map
