@@ -17,5 +17,5 @@ Python game demonstrating coding experience.
 [View Project](coded-adventure-game)
 
 ### Survey123 Map
-
+Survey and static map showing entered data.
 [View Project](survey123-tree-damage-project)
