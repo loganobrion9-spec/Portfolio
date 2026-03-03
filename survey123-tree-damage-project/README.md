@@ -31,5 +31,5 @@ The form includes:
 (
 
 ## Web Map Output
-(Lab_7_Map.png)
+!(Lab_7_Map.png)
 
