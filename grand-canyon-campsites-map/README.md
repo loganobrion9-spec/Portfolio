@@ -24,4 +24,4 @@ To create a clean, publication-quality static map suitable for park visitors, pl
 - Geographic data management
 
 ## Map Preview
-![Grand Cayon Campsites Map](GrandCanyonCampsitesMap)
+![Grand Cayon Campsites Map](GrandCanyonCampsitesMap.png)
