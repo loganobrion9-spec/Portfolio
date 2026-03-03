@@ -30,6 +30,6 @@ The form includes:
 ## Survey Preview
 (
 
-##Map Output
+## Map Output
 ![Survey Results Map](Lab_7_Map.png)
 
