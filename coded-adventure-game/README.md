@@ -49,5 +49,5 @@ python game.py
 
 ## Notes
 
-- Make sure the `images` and `sounds` folders remain in the same directory as `game.py`.
+- Make sure the images and sounds folders remain in the same directory as `game.py`.
 - Do not remove or rename supporting modules.
