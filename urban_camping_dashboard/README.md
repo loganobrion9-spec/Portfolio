@@ -29,4 +29,4 @@ Urban camping regulations are often written in legal language that is difficult 
 ![Dashboard Preview](UrbanCampingDashboard.png)
 
 ## Live Application
-(Add AGOL link here)
+[View Live Dashboard](https://umontana.maps.arcgis.com/apps/dashboards/bc16208e2fb3466681908f80994f2338)
