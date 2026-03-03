@@ -1,5 +1,5 @@
 # Logan O'Brion - Portfolio
-Welcome to my portfolio.
+Welcome to my portfolio. I'm a student studying forestry and GIS at the University of Montana. I hope to utilize these skills studying and analyzing our world's natural resources.
 
 ### Urban Camping Dashboard
 Interactive dashboard displaying urban camping restrictions within the city of Missoula.
