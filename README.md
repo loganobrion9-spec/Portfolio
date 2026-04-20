@@ -6,6 +6,10 @@ Interactive dashboard displaying urban camping restrictions within the city of M
 
 [View Project](urban_camping_dashboard)
 
+### Mapping a Timber Cruise 
+A timber cruise designed and completed for a forest mensuration final project
+
+
 ### Grand Canyon Campsites – Static Map
 Static map of designated campsites within Grand Canyon National Park with both trail and riverside access.  
 
@@ -16,8 +20,4 @@ Python game demonstrating coding experience.
 
 [View Project](coded-adventure-game)
 
-### Survey123 Map
-Survey and static map showing entered data.
 
-
-[View Project](survey123-tree-damage-project)
