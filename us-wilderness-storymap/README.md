@@ -38,4 +38,4 @@ To communicate the growth and distribution of U.S. wilderness areas through time
 ## Live StoryMap
 ## Live StoryMap
 
-[Explore the StoryMap](https://storymaps.arcgis.com/stories/abc123456789](https://storymaps.arcgis.com/stories/fbcf48bb16a04b28b0122fdb22be1af6)
+[Explore the StoryMap](https://storymaps.arcgis.com/stories/fbcf48bb16a04b28b0122fdb22be1af6)
