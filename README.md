@@ -13,7 +13,7 @@ Interactive dashboard displaying urban camping restrictions within the city of M
 
 ### Journey of U.S. Wilderness Through Time
 Interactive StoryMap exploring the spatial and temporal expansion of designated wilderness areas in the United States.  
-🔗 [View Project](us-wilderness-storymap)
+[View Project](us-wilderness-storymap)
 
 ### Grand Canyon Campsites – Static Map
 Static map of designated campsites within Grand Canyon National Park with both trail and riverside access.  
