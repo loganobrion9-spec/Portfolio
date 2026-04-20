@@ -11,6 +11,7 @@ All data for this project, including the forest stand boundaries and cruise desi
 
 ## Methods
 
+
 ## Tools Used
 - ArcGIS Pro
 - ArcGIS Online
@@ -28,7 +29,7 @@ All data for this project, including the forest stand boundaries and cruise desi
 Short explanation of what you found or produced.
 
 ## Project Preview
-![Timber Cruise Map]
+![Timber Cruise Map](StandMap.png)
 
 
 
