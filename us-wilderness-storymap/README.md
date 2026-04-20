@@ -31,8 +31,9 @@ To communicate the growth and distribution of U.S. wilderness areas through time
 
 
 ## StoryMap Preview
-<img src="TitlePage.png" width="45%"> 
-<img src="StoryMap.png" width="45%">
+![Title Page](TitlePage.png)
+
+![Portion of StoryMap](StoryMap.png)
 
 ## Live StoryMap
 (Add link here)
