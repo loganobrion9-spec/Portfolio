@@ -9,7 +9,9 @@ To design and execute a timber cruise of a stand in Pattee Canyon, Missoula, Mon
 ## Data Sources
 All data for this project, including the forest stand boundaries and cruise design, were created by me in ArcGIS Pro.
 
-## Methods
+## Full Workflow Document
+
+[Download Full Workflow (DOCX)](FinalProjectGISWorkflow.docx)
 
 
 ## Tools Used
@@ -23,10 +25,10 @@ All data for this project, including the forest stand boundaries and cruise desi
 - Cruise design
 - Data management
 - Cartography
--
+
 
 ## Results
-Short explanation of what you found or produced.
+This produced a map that could used in the field to navigate to plots while reducing bias by creating the design before going to the site.
 
 ## Project Preview
 ![Timber Cruise Map](StandMap.png)
