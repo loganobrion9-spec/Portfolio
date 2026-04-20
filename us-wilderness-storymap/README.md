@@ -6,7 +6,6 @@ This project is an ArcGIS StoryMap that explores the spatial and temporal evolut
 ## Objective
 To communicate the growth and distribution of U.S. wilderness areas through time using an interactive, narrative-driven GIS application.
 
----
 
 ## Methods
 
@@ -16,14 +15,12 @@ To communicate the growth and distribution of U.S. wilderness areas through time
 - Integrated maps into ArcGIS StoryMaps
 - Designed narrative structure to guide user through time
 
----
 
 ## Tools Used
 - ArcGIS Online
 - ArcGIS StoryMaps
 - Web Map configuration
 
----
 
 ## Skills Demonstrated
 - Spatial storytelling
@@ -32,11 +29,10 @@ To communicate the growth and distribution of U.S. wilderness areas through time
 - Data organization and presentation
 - Cartographic communication
 
----
 
 ## StoryMap Preview
-(TitlePage)
-(StoryMap)
+<img src="TitlePage.png" width="45%"> 
+<img src="StoryMap.png" width="45%">
 
 ## Live StoryMap
 (Add link here)
