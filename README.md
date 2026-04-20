@@ -9,6 +9,7 @@ Interactive dashboard displaying urban camping restrictions within the city of M
 ### Mapping a Timber Cruise 
 A timber cruise designed and completed for a forest mensuration final project
 
+[View Project](designed-timber-cruise)
 
 ### Grand Canyon Campsites – Static Map
 Static map of designated campsites within Grand Canyon National Park with both trail and riverside access.  
