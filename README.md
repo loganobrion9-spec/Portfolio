@@ -1,5 +1,5 @@
 # Logan O'Brion - Portfolio
-Welcome to my portfolio. I'm a student studying forestry and GIS at the University of Montana. I hope to utilize these skills studying and analyzing our world's natural resources.
+Welcome to my portfolio! I'm a student studying forestry and GIS at the University of Montana. I hope to utilize these skills studying, analyzing, and sustainably managing our world's natural resources.
 
 ### Mapping a Timber Cruise 
 A timber cruise designed and completed for a forest mensuration final project.
