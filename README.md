@@ -17,7 +17,7 @@ Interactive StoryMap exploring the spatial and temporal expansion of designated 
 
 ### Middle Earth Least Cost Path Analysis
 A Lord of the Rings least cost path analysis of Frodo and Sam's journey to Mordor.
-[View Project]
+[View Project](middle-earth-least-cost-analysis)
 
 ### Grand Canyon Campsites – Static Map
 Static map of designated campsites within Grand Canyon National Park with both trail and riverside access.  
