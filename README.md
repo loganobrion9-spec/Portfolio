@@ -1,5 +1,7 @@
 # Logan O'Brion - Portfolio
-Welcome to my portfolio! I'm a student studying forestry and GIS at the University of Montana. I hope to utilize these skills studying, analyzing, and sustainably managing our world's natural resources.
+Welcome to my portfolio! I am a forestry and GIS student at the University of Montana with a focus on spatial analysis, field data collection, and land management. My work combines GIS and cartography to analyze forest systems, model landscapes, and support natural resource decision-making.
+
+This portfolio highlights projects in forest inventory, spatial modeling, web GIS, and data-driven mapping.
 
 ### Mapping a Timber Cruise 
 A timber cruise designed and completed for a forest mensuration final project.
