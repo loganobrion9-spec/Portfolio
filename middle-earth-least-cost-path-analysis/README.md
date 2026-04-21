@@ -48,7 +48,7 @@ To apply GIS-based least cost path analysis to simulate optimal route selection 
 The model identifies an optimal route minimizing travel cost based on terrain and hazards. Results highlight how environmental constraints influence movement across the landscape.
 
 ## Product Preview
-[Project Homepage]()
+[Project Homepage](LOTRLCP)
 
 ## Map Output
-(Add map here)
+[Live Experience Builder)(https://experience.arcgis.com/experience/91c944ebf4264621adc27c55e4557d7f/page/Page)
