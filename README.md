@@ -13,10 +13,12 @@ Interactive dashboard displaying urban camping restrictions within the city of M
 
 ### Journey of U.S. Wilderness Through Time
 Interactive StoryMap exploring the spatial and temporal expansion of designated wilderness areas in the United States.  
+
 [View Project](us-wilderness-storymap)
 
 ### Middle Earth Least Cost Path Analysis
 A Lord of the Rings least cost path analysis of Frodo and Sam's journey to Mordor.
+
 [View Project](middle-earth-least-cost-path-analysis)
 
 ### Grand Canyon Campsites – Static Map
