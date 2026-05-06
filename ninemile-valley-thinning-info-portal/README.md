@@ -6,7 +6,6 @@ This project is an ArcGIS Experience Builder application designed to support for
 ## Objective
 To develop an interactive GIS application that helps users evaluate forest conditions, access constraints, and environmental limitations when planning thinning operations.
 
----
 
 ## My Role
 - Created spatial buffers for streams, trails, private lands, and Inventoried Roadless Areas
@@ -14,10 +13,15 @@ To develop an interactive GIS application that helps users evaluate forest condi
 - Contributed to raster-based analysis inputs
 - Applied the Locate Regions tool to identify and rank optimal thinning areas
 
----
 
 ## Methods
 
+## Model Considerations
+
+- Environmental buffers were used to avoid sensitive areas (streams, private land, IRAs)
+- Slope and forest structure influenced operational feasibility
+- Weighted raster overlay allowed prioritization of optimal thinning zones
+  
 ### Data Integration
 - Incorporated roads, streams, parcels, DEM, and forest structure data
 - Used USFS TreeMap rasters for stand characteristics (DBH, basal area, forest type)
@@ -32,14 +36,12 @@ To develop an interactive GIS application that helps users evaluate forest condi
 - Identified and ranked optimal thinning locations using spatial modeling
 - Integrated results into an interactive Experience Builder application
 
----
 
 ## Tools Used
 - ArcGIS Pro (raster analysis, modeling)
 - ArcGIS Online
 - ArcGIS Experience Builder
 
----
 
 ## Skills Demonstrated
 - Raster-based suitability modeling  
@@ -48,7 +50,6 @@ To develop an interactive GIS application that helps users evaluate forest condi
 - Web GIS application development  
 - Forestry data integration  
 
----
 
 ## Application Preview
 (Add screenshot here)
