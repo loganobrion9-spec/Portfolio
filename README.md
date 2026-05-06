@@ -8,6 +8,11 @@ A timber cruise designed and completed for a forest mensuration final project.
 
 [View Project](designed-timber-cruise)
 
+### Ninemile Valley Thinning Information Portal
+Interactive guide for suggested areas of future fuels reduction projects within the Ninemile Ranger District, Lolo National Forest.
+
+[View Project]()
+
 ### Urban Camping Dashboard
 Interactive dashboard displaying urban camping restrictions within the city of Missoula.
 
