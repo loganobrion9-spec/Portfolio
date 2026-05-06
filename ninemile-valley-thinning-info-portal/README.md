@@ -16,7 +16,7 @@ To develop an interactive GIS application that helps users evaluate forest condi
 
 ## Methods
 
-## Model Considerations
+### Model Considerations
 
 - Environmental buffers were used to avoid sensitive areas (streams, private land, IRAs)
 - Slope and forest structure influenced operational feasibility
@@ -52,7 +52,8 @@ To develop an interactive GIS application that helps users evaluate forest condi
 
 
 ## Application Preview
-(Add screenshot here)
+![Thinning Tool Preview](GISFinalHomepage.png)
+![Thinning Suitability Index Preview](GISFinalTSI.png)
 
 ## Live Application
-🔗 [Open Experience Builder App](https://experience.arcgis.com/experience/16ba869012af4568ae88d9f7b9207995)
+🔗 [Open Experience Builder App](https://experience.arcgis.com/experience/16ba869012af4568ae88d9f7b9207995/page/Page?views=Thinning-Suitability-Index)
