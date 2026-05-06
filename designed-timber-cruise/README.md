@@ -28,7 +28,7 @@ All data for this project, including the forest stand boundaries and cruise desi
 
 
 ## Results
-This produced a map that could used in the field to navigate to plots while reducing bias by creating the design before going to the site.
+This produced a map that could used in the field to navigate to plots while reducing bias by creating the layout before going to the site.
 
 ## Project Preview
 ![Timber Cruise Map](StandMap.png)
