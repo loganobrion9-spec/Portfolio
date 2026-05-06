@@ -56,4 +56,4 @@ To develop an interactive GIS application that helps users evaluate forest condi
 ![Thinning Suitability Index Preview](GISFinalTSI.png)
 
 ## Live Application
-🔗 [Open Experience Builder App](https://experience.arcgis.com/experience/16ba869012af4568ae88d9f7b9207995/page/Page?views=Thinning-Suitability-Index)
+🔗 [Open Experience Builder App](https://experience.arcgis.com/experience/16ba869012af4568ae88d9f7b9207995/page/Page?views=Project-Summary)
