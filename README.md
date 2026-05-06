@@ -3,20 +3,15 @@ Welcome to my portfolio! I am a forestry and GIS student at the University of Mo
 
 This portfolio highlights projects in forest inventory, spatial modeling, web GIS, and data-driven mapping.
 
+### Ninemile Valley Thinning Information Portal
+Interactive guide for suggested areas of future fuels reduction projects within the Ninemile Ranger District, Lolo National Forest.
+
+[View Project](ninemile-valley-thinning-info-portal)
+
 ### Mapping a Timber Cruise 
 A timber cruise designed and completed for a forest mensuration final project.
 
 [View Project](designed-timber-cruise)
-
-### Ninemile Valley Thinning Information Portal
-Interactive guide for suggested areas of future fuels reduction projects within the Ninemile Ranger District, Lolo National Forest.
-
-[View Project]()
-
-### Urban Camping Dashboard
-Interactive dashboard displaying urban camping restrictions within the city of Missoula.
-
-[View Project](urban_camping_dashboard)
 
 ### Journey of U.S. Wilderness Through Time
 Interactive StoryMap exploring the spatial and temporal expansion of designated wilderness areas in the United States.  
@@ -27,6 +22,11 @@ Interactive StoryMap exploring the spatial and temporal expansion of designated 
 A Lord of the Rings least cost path analysis of Frodo and Sam's journey to Mordor.
 
 [View Project](middle-earth-least-cost-path-analysis)
+
+### Urban Camping Dashboard
+Interactive dashboard displaying urban camping restrictions within the city of Missoula.
+
+[View Project](urban_camping_dashboard)
 
 ### Grand Canyon Campsites – Static Map
 Static map of designated campsites within Grand Canyon National Park with both trail and riverside access.  
